@@ -1,6 +1,8 @@
 Example Voting App
 =========
 
+NOTE: This is a fork of the Docker's Voting App with tweaks for Linux PowerPC 64 LE
+
 A simple distributed application running across multiple Docker containers.
 
 Getting started
